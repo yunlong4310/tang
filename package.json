@@ -1,7 +1,7 @@
 {
   "name": "0.03",
   "version": "1.0.0",
-  "description": "一个强脚本型编程语言",
+  "description": "一个强类型的解释型编程语言",
   "main": "tang.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
