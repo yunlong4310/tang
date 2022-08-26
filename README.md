@@ -26,7 +26,7 @@ parameterList : expression (',' expression)*
 ast解释执行
 
 在语义上：
-支持函数引用消解
+支持函数引用消解，
 支持变量引用消解
 
 执行命令：
