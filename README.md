@@ -1,5 +1,5 @@
 # tang
-tang语言是一个强脚本型编程语言。
+tang是一个强类型的解释型编程语言
 
 现支持以下特性：
 1.支持String，Decimal，Integer，Boolean类型的变量声明及赋值
@@ -27,7 +27,7 @@ ast解释执行
 
 在语义上：
 支持函数引用消解
-支持变量引用小姐
+支持变量引用消解
 
 执行命令：
 node tang xxx.ts
