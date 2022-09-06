@@ -25,8 +25,8 @@ functionCall : Identifier '(' parameterList? ')'
 parameterList : expression (',' expression)* 
 
 【语义规则如下】：
-支持函数引用消解
-支持变量引用消解
+支持函数引用消解、
+支持变量引用消解、
 支持变量作用域
 
 【运行时】：
